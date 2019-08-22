@@ -130,6 +130,9 @@ $ git branch
 ```
 # ブランチの移動
 $ git checkout <作成したブランチ>
+
+# git version 2.23の場合
+$ git swicth <作成したブランチ>
 ```
 
 ```
